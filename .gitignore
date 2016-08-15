@@ -1,0 +1,11 @@
+*.db
+.DS_Store
+.idea
+venv
+env
+__pycache__
+.pyc
+.env
+static/*
+web/static/*
+.built
